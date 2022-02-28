@@ -7,8 +7,8 @@ class Progam
     {
         Knigth arus = new Knigth("Arus", 42, 469, 749, 72, 72, "Knight");
         Ninja wedge = new Ninja("Wedge", 42, 292, 574, 89, 89, "Ninja");
-        Wizard wizard = new Wizard("Jennica", 23, 325, 601, 474, 482, "White Wizard");
-        BlackWizard blackWizard = new BlackWizard("Topapa", 23, 106, 385, 611, 641, "Black Wizard");
+        Wizard wizard = new Wizard("Jennica", 42, 325, 601, 474, 482, "White Wizard");
+        BlackWizard blackWizard = new BlackWizard("Topapa", 42, 106, 385, 611, 641, "Black Wizard");
 
 
         WriteLine(arus.ToString());

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Daiane\\DIO\\C#\\dotnet_poo\\dotnet_poo.csproj",
+      "projectUniqueName": "E:\\Daiane\\DIO\\C#\\DIO-DOTNET-POO\\dotnet_poo.csproj",
       "projectName": "dotnet_poo",
-      "projectPath": "e:\\Daiane\\DIO\\C#\\dotnet_poo\\dotnet_poo.csproj",
+      "projectPath": "E:\\Daiane\\DIO\\C#\\DIO-DOTNET-POO\\dotnet_poo.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "e:\\Daiane\\DIO\\C#\\dotnet_poo\\obj\\",
+      "outputPath": "E:\\Daiane\\DIO\\C#\\DIO-DOTNET-POO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
