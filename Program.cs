@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 using dotnet_poo.src.Entities;
 
-class Progam
+class Program
 {
     static void Main(string[] args)
     {
